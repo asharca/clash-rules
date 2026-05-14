@@ -1,0 +1,40 @@
+# Development 开发相关规则列表（Classical 格式）
+
+# Database / Cloud
+DOMAIN-SUFFIX,neon.tech
+DOMAIN-SUFFIX,neon.com
+DOMAIN-SUFFIX,neonapi.io
+DOMAIN-SUFFIX,mongodb.net
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-SUFFIX,supabase.co
+DOMAIN-SUFFIX,supabase.com
+DOMAIN-SUFFIX,planetscale.com
+DOMAIN-SUFFIX,upstash.com
+
+# Communication
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-edge.com
+
+# Package Registry / Dev Tools
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,git.io
+
+# API / Service
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,railway.app
+DOMAIN-SUFFIX,render.com
+DOMAIN-SUFFIX,fly.io

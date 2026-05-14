@@ -1,0 +1,7 @@
+# Claude / Anthropic 规则列表（Classical 格式）
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN,api.anthropic.com
+DOMAIN,api.claude.ai
+DOMAIN-SUFFIX,anthropic-cdn.com
