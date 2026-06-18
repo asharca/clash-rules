@@ -1,0 +1,16 @@
+# Huobi / HTX 规则列表（Classical 格式）
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,huobipro.com
+DOMAIN-SUFFIX,hbg.com
+DOMAIN,htx.com.bn
+DOMAIN,huobi.br.com
+DOMAIN,huobi.me
+DOMAIN,api.huobi.pro
+DOMAIN,api.hbg.com
+DOMAIN,api.htx.com
+DOMAIN,api.cloud.htx.com
+DOMAIN,otc.huobi.com
+DOMAIN,www.htx.com
+DOMAIN,www.huobi.com
