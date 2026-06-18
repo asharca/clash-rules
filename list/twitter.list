@@ -1,0 +1,11 @@
+# Twitter(X) 规则列表（Classical 格式）
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN,psxid.x.com
+DOMAIN,abs.twimg.com
+DOMAIN,video.twimg.com
+DOMAIN,pbs.twimg.com
