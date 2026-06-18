@@ -1,0 +1,7 @@
+# Grok / xAI 规则列表（Classical 格式）
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN,grok.x.ai
+DOMAIN,api.x.ai
+DOMAIN,console.x.ai
+DOMAIN,docs.x.ai
