@@ -19,17 +19,112 @@ DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,slack-edge.com
 
-# Package Registry / Dev Tools
+# ==================== Package Registry / Dev Tools ====================
+# npm / yarn / pnpm / bun
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,registry.npmjs.org
+DOMAIN-SUFFIX,registry.npmjs.com
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,registry.yarnpkg.com
+DOMAIN-SUFFIX,repo.yarnpkg.com
+DOMAIN-SUFFIX,pnpm.io
+DOMAIN-SUFFIX,get.pnpm.io
+DOMAIN-SUFFIX,bun.sh
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,npm.pkg.github.com
+
+# GitHub 完整相关（含 LFS / Release / Container）
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-SUFFIX,api.github.com
 DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,ghcr.io
 
-# API / Service
+# Python / PyPI / Conda
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pypi.python.org
+DOMAIN-SUFFIX,files.pythonhosted.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,repo.anaconda.com
+DOMAIN-SUFFIX,conda.anaconda.org
+DOMAIN-SUFFIX,continuum.io
+
+# Rust / Cargo
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,index.crates.io
+DOMAIN-SUFFIX,static.crates.io
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,static.rust-lang.org
+DOMAIN-SUFFIX,sh.rustup.rs
+
+# Go
+DOMAIN-SUFFIX,proxy.golang.org
+DOMAIN-SUFFIX,sum.golang.org
+DOMAIN-SUFFIX,pkg.go.dev
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,go.dev
+
+# Maven / Java / Gradle
+DOMAIN-SUFFIX,repo.maven.apache.org
+DOMAIN-SUFFIX,repo1.maven.org
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,services.gradle.org
+DOMAIN-SUFFIX,plugins.gradle.org
+DOMAIN-SUFFIX,gradle.org
+
+# Ruby / PHP / .NET / Dart / 其他
+DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,packagist.org
+DOMAIN-SUFFIX,nuget.org
+DOMAIN-SUFFIX,api.nuget.org
+DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,hex.pm
+DOMAIN-SUFFIX,cocoapods.org
+DOMAIN-SUFFIX,cdn.cocoapods.org
+DOMAIN-SUFFIX,luarocks.org
+
+# ==================== Container Registries ====================
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,index.docker.io
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,registry.k8s.io
+
+# ==================== CDN / 静态资源 / 包分发 ====================
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
+DOMAIN-SUFFIX,bootcdn.cn
+
+# ==================== ML / AI 模型下载 ====================
+DOMAIN-SUFFIX,download.pytorch.org
+DOMAIN-SUFFIX,pytorch.org
+
+# ==================== 其他常用开发源 / 工具 ====================
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,formulae.brew.sh
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,codeberg.org
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,marketplace.visualstudio.com
+DOMAIN-SUFFIX,open-vsx.org
+
+# API / Service（部署与云函数）
 DOMAIN-SUFFIX,vercel.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,netlify.com
